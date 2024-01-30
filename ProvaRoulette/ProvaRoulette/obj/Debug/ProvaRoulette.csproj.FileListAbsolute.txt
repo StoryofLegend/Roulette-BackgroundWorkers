@@ -1,0 +1,9 @@
+C:\Scuola\ProvaRoulette\ProvaRoulette\bin\Debug\ProvaRoulette.exe.config
+C:\Scuola\ProvaRoulette\ProvaRoulette\bin\Debug\ProvaRoulette.exe
+C:\Scuola\ProvaRoulette\ProvaRoulette\bin\Debug\ProvaRoulette.pdb
+C:\Scuola\ProvaRoulette\ProvaRoulette\obj\Debug\ProvaRoulette.csprojAssemblyReference.cache
+C:\Scuola\ProvaRoulette\ProvaRoulette\obj\Debug\ProvaRoulette.Form1.resources
+C:\Scuola\ProvaRoulette\ProvaRoulette\obj\Debug\ProvaRoulette.Properties.Resources.resources
+C:\Scuola\ProvaRoulette\ProvaRoulette\obj\Debug\ProvaRoulette.csproj.GenerateResource.cache
+C:\Scuola\ProvaRoulette\ProvaRoulette\obj\Debug\ProvaRoulette.exe
+C:\Scuola\ProvaRoulette\ProvaRoulette\obj\Debug\ProvaRoulette.pdb

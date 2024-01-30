@@ -1,0 +1,20 @@
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\bin\Debug\4F_Kovacev_Roulette.exe.config
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\bin\Debug\4F_Kovacev_Roulette.exe
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\bin\Debug\4F_Kovacev_Roulette.pdb
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.csprojAssemblyReference.cache
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\_4F_Kovacev_Roulette.frmIniziale.resources
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\_4F_Kovacev_Roulette.Properties.Resources.resources
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.csproj.GenerateResource.cache
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.exe
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.pdb
+C:\Scuola\4°\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\_4F_Kovacev_Roulette.frmGioco.resources
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\bin\Debug\4F_Kovacev_Roulette.exe.config
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\bin\Debug\4F_Kovacev_Roulette.exe
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\bin\Debug\4F_Kovacev_Roulette.pdb
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.csprojAssemblyReference.cache
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\_4F_Kovacev_Roulette.frmGioco.resources
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\_4F_Kovacev_Roulette.frmIniziale.resources
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\_4F_Kovacev_Roulette.Properties.Resources.resources
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.csproj.GenerateResource.cache
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.exe
+C:\Scuola\4°\TPSIT\Programmazione Concorrente\Programmi\Roulette\4F_Kovacev_Roulette\4F_Kovacev_Roulette\obj\Debug\4F_Kovacev_Roulette.pdb
